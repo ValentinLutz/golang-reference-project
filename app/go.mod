@@ -9,7 +9,7 @@ require (
 	github.com/lib/pq v1.10.6
 	github.com/prometheus/client_golang v1.12.2
 	github.com/rs/zerolog v1.26.1
-	github.com/stretchr/testify v1.7.1
+	github.com/stretchr/testify v1.7.2
 	gopkg.in/yaml.v3 v3.0.1
 )
 
